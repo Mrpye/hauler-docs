@@ -1,6 +1,6 @@
 # Installation Guide
 
-[1. Getting Started](../1%20Getting%20Started%204dd0898a929949848fd36e57bf5c769e.md)
+[1. Getting Started](../1%20Getting%20Started.md)
 
 # 1.1 Download Binary
 

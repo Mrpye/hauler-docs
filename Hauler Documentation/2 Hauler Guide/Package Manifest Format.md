@@ -1,8 +1,8 @@
 # Package Manifest Format
 
-[2. Hauler Guide](../2%20Hauler%20Guide%2025fbeb71ea224a1c96202b377a583fb4.md)
+[2. Hauler Guide](../2%20Hauler%20Guide.md)
 
-[Hauler Documentation](../../Hauler%20Documentation%203bf9a712efcd43a696ef5eb0b209c943.md)
+[Hauler Documentation](../../Hauler%20Documentation.md)
 
 This guide will walk through the element of the package manifest.
 
@@ -77,7 +77,7 @@ files:
 
 ## File Download Format
 
-[File Download Format](File%20Download%20Format%200b5c879990674a2a97d43d072164b0cc.md)
+[File Download Format](File%20Download%20Format.md)
 
 # Images
 

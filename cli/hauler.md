@@ -19,7 +19,6 @@ Packaging and Deployment automation for applications
 * [hauler completion](hauler_completion.md)	 - Generate the autocompletion script for the specified shell
 * [hauler gen_docs](hauler_gen_docs.md)	 - This command will build the documents for the cli
 * [hauler job](hauler_job.md)	 - job commands
-* [hauler my_test](hauler_my_test.md)	 - This command is just for testing things
 * [hauler package](hauler_package.md)	 - Used for managing package configuration
 * [hauler repo](hauler_repo.md)	 - repo commands
 * [hauler target](hauler_target.md)	 - Used for managing target configuration
